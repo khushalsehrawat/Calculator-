@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "name": "Calculator-",
+      "root": ".",
+      "base_url": "https://khushalsehrawat.github.io/Calculator-/",
+      "pages": {
+        "cal_home.html": "https://khushalsehrawat.github.io/Calculator-/cal_home.html",
+        "calcu.html": "https://khushalsehrawat.github.io/Calculator-/calcu.html"
+      }
+    }
+  ]
+}
